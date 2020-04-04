@@ -5,7 +5,7 @@
 
 ## Description
 
-A To-Do API built using [Nest](https://github.com/nestjs/nest), TypeScript ORM and PostgreSQL to demonstrate the core concepts of NestJS.
+A To-Do API built using [Nest](https://github.com/nestjs/nest), TypeORM and PostgreSQL to demonstrate the core concepts of NestJS.
 
 ## Installation
 
